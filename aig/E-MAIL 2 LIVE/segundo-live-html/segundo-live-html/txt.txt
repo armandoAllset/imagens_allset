@@ -1,0 +1,14 @@
+ARIAL 16: Acompanhe em tempo real todos as atividades de nosso laboratório, de onde estiver, pelo computador ou celular.
+------------------------------------------------------------------
+ARIAL 16: Sem precisar se deslocar
+até o Pack Studios, você pode acompanhar os testes e desenvolvimentos de novas aplicações.
+
+(BOLD)Colaboração. Inovação. Aceleração.(/BOLD) Ainda mais perto de você.
+-------------------------------------------------------------------
+ARIAL 24: (BOLD)Comece a utilizar.(/BOLD)
+ARIAL 14: Entre em contato com a sua equipe Dow.
+
+
+AZUL: 415465
+VERMELHO: e71d35
+BEGE: c2bea7
