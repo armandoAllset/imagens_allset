@@ -1,0 +1,72 @@
+<div class="pdp-main font_texto">
+	<div id="section-title">
+		<h1 class="texto_destaque bold">STARBUCKS ESPRESSO ROAST - 12 CÁPSULAS</h1>
+		<p class="entre_linhas">O café espresso perfeito, com uma <b>doçura rica e caramelizada</b> e que, desde 1975, nunca teve a receita alterada.É po mio dele que se inicia a história de todas as bebidas com espresso que criamos pra você. A combinação ideal de <b>grãos e torra.</b></p>
+	</div>
+	<!-- DESKTOP -->
+	<div id="section-know-more" class="desktop">
+		<div class="detail detail-first"><span><strong>230</strong> ml</span> <span class="description">O tamanho ideal para voc&ecirc; despertar</span></div>
+		<div class="detail detail-second"><img src="{{media url='wysiwyg/pdp/sabores/espresso/Icones-Produtos-02.png'}}" alt="" /> <span class="description">Sabor carameliza</span></div>
+		<div class="product-merchan"><img style="width: 35%; margin-top: 100px;" src="https://www.nescafe-dolcegusto.com.br/media/wysiwyg/sabores/starbucks/americano/STARBUCKS_PDP_AMERICANO-07.png" alt="Caf&eacute; Au Lait" /></div>
+		<div class="detail detail-third"><img src="{{media url='wysiwyg/pdp/sabores/espresso/Icones-Produtos-03.png'}}" alt="" /> <span class="description">Gr&atilde;os torrados</span></div>
+		<div class="detail detail-fourth"><img src="{{media url='wysiwyg/pdp/sabores/espresso/Icones-Produtos-04.png'}}" alt="" /> <span class="description">Aroma adocicado</span></div>
+	</div>
+	<!-- FECHA DESKTOP --> <!-- MOBILE -->
+	<div id="section-know-more-m" class="mobile">
+		<div class="product-merchan"><img src="https://www.nescafe-dolcegusto.com.br/media/wysiwyg/sabores/starbucks/americano/STARBUCKS_PDP_AMERICANO-07.png" alt="" /></div>
+		<div class="detail detail-first"><span><strong>230</strong> ml</span> <span class="description"> O tamanho ideal para voc&ecirc; despertar</span></div>
+		<div class="detail"><img src="{{media url='wysiwyg/pdp/sabores/espresso/Icones-Produtos-02.png'}}" alt="" /> <span class="description">Aroma de cacau e castanhas</span></div>
+		<div class="detail"><img src="{{media url='wysiwyg/pdp/sabores/espresso/Icones-Produtos-03.png'}}" alt="" /> <span class="description">Gr&atilde;os torrados</span></div>
+		<div class="detail"><img src="{{media url='wysiwyg/pdp/sabores/espresso/Icones-Produtos-04.png'}}" alt="" /> <span class="description">Aroma adocicado</span></div>
+	</div>
+	<!-- FECHA MOBILE -->
+	<div id="section-how-to">
+		<h2 class="text_center"><span class="texto_destaque bold">Como preparar</span></h2>
+		<div class="machine-automatic">
+			<div class="machine-right">
+				<h3 class="no-line texto_destaque">M&Aacute;QUINA AUTOM&Aacute;TICA</h3>
+				<ul class="entre_linhas">
+					<li>Selecione o n&iacute;vel 7 de &aacute;gua</li>
+					<li>Escolha a temperatura quente</li>
+				</ul>
+				<div class="machine-automatic-lines">&nbsp;</div>
+			</div>
+			<div class="machine-left">
+				<div class="mini-me mobile"><img src="{{media url='wysiwyg/pdp/sabores/espresso/espresso_mobile.png'}}" alt="Mini Me" /></div>
+				<div class="mini-me desktop"><img src="{{media url='wysiwyg/pdp/sabores/espresso/mini-me.png'}}" alt="Mini Me" /></div>
+				<div class="accessories"><img style="width: 20%; display: block;" src="https://www.nescafe-dolcegusto.com.br/media/wysiwyg/sabores/starbucks/americano/STARBUCKS_PDP_AMERICANO-11.png" alt="" /><img style="width: 20%;" src="https://www.nescafe-dolcegusto.com.br/media/wysiwyg/sabores/starbucks/americano/STARBUCKS_PDP_AMERICANO-08.png" alt="" /></div>
+			</div>
+		</div>
+		<!-- DESKTOP -->
+		<div class="machine-manual desktop">
+			<div class="machine-right">
+				<div class="piccolo"><img src="{{media url='wysiwyg/pdp/sabores/espresso/piccolo.png'}}" alt="Mini Me" /></div>
+			</div>
+			<div class="machine-left">
+				<h3 class="no-line texto_destaque">M&Aacute;QUINA MANUAL</h3>
+				<ul class="entre_linhas">
+					<li>Acione a alavanca para a posi&ccedil;&atilde;o de fluxo quente</li>
+					<li>Tempo de preparo sugerido: 30 segundos</li>
+				</ul>
+			</div>
+			<div class="machine-manual-lines">&nbsp;</div>
+		</div>
+		<!-- FECHA DESKTOP --> <!-- MOBILE -->
+		<div class="machine-manual mobile">
+			<div class="machine-left">
+				<h3 class="no-line texto_destaque">M&Aacute;QUINA MANUAL</h3>
+				<ul class="entre_linhas maquina_li">
+					<li>Acione a alavanca para a posi&ccedil;&atilde;o de fluxo quente</li>
+					<li>Tempo de preparo sugerido: 30 segundos</li>
+				</ul>
+			</div>
+			<div class="machine-right">
+				<div class="piccolo"><img src="{{media url='wysiwyg/pdp/sabores/espresso/piccolo.png'}}" alt="Mini Me" /></div>
+				<div class="lines">&nbsp;</div>
+			</div>
+		</div>
+		<div id="desc_footer" class="desc entre_linhas text_center">
+			<p>O n&iacute;vel de &aacute;gua e tempo de preparo &eacute; apenas uma sugest&atilde;o. Fique &agrave; vontade para adaptar ao seu paladar.</p>
+		</div>
+	</div>
+</div>
